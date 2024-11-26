@@ -17,7 +17,7 @@ module.exports = {
    */
   EMAIL_USER: env.EMAIL_USER,
   EMAIL_PASS: env.EMAIL_PASS,
-  EMAIL_TO: '418252769@qq.com',
+  EMAIL_TO: '418252769@qq.com,418252769@qq.com,418252769@qq.com',
   /**
    * 钉钉配置
    * https://open.dingtalk.com/document/robots/custom-robot-access
