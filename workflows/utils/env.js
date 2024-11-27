@@ -17,7 +17,7 @@ module.exports = {
    */
   EMAIL_USER: env.EMAIL_USER,
   EMAIL_PASS: env.EMAIL_PASS,
-  EMAIL_TO: '418252769@qq.com,418252769@qq.com,418252769@qq.com',
+  EMAIL_TO: '418252769@qq.com',
   /**
    * 钉钉配置
    * https://open.dingtalk.com/document/robots/custom-robot-access
@@ -27,7 +27,7 @@ module.exports = {
    * PushPlus配置
    * http://www.pushplus.plus/doc/guide/openApi.html
    */
-  PUSHPLUS_TOKEN: '35492105c87b4667a063584ba10fcb31',
+  PUSHPLUS_TOKEN: env.PUSHPLUS_TOKEN,
   /**
    * 企业微信机器人配置
    * https://developer.work.weixin.qq.com/document/path/91770
