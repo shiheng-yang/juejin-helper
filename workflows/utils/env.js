@@ -22,7 +22,7 @@ module.exports = {
    * 钉钉配置
    * https://open.dingtalk.com/document/robots/custom-robot-access
    */
-  DINGDING_WEBHOOK: env.DINGDING_WEBHOOK,
+  DINGDING_WEBHOOK: 'https://oapi.dingtalk.com/robot/send?access_token=50797c8f93cd4e8067faf35deb4293c640ebb983054880c953c85123dc9649fd',
   /**
    * PushPlus配置
    * http://www.pushplus.plus/doc/guide/openApi.html
